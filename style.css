@@ -1,9 +1,10 @@
 .cDTE_PrizeComponent .iconContainer #Image_Div_Prize img, .cDTE_PrizeComponent .iconContainer #Image_OutOfStockStyle img, .cDTE_PrizeComponent #Image_Div_Prize img {
     height: 138px !important;
     width: auto !important;
+	padding-top: 15px; 
     border-radius: 12px !important;
     max-width: 100%;
-	padding-top: 15px; 
+	
 }
 
 
